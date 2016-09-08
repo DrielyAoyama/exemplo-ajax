@@ -1,6 +1,6 @@
 function ajaxGET()
 {
-	$.ajax({             
+       $.ajax({             
        type: "GET",
        data: 
         { 
@@ -18,7 +18,7 @@ function ajaxGET()
 // http://exemplo.com.br com as variáveis passadas de maneira OCULTA
 function ajaxPOST()
 {
-	$.ajax({             
+       $.ajax({             
        type: "POST",
        data: 
         { 
