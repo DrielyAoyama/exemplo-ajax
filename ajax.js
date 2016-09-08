@@ -8,7 +8,7 @@ function ajaxGET()
        		endereco: 'Rua: ......, numero: 000',
        		telefone: '0000000'
        	},             
-       url: "http://exemplo.com.br",
+       url: "http://exemplo.com.br"
     });
 }
 
@@ -26,6 +26,6 @@ function ajaxPOST()
        		endereco: 'Rua: ......, numero: 000',
        		telefone: '0000000'
        	},             
-       url: "http://exemplo.com.br",
+       url: "http://exemplo.com.br"
     });
 }
